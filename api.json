@@ -40,7 +40,7 @@
     },
     {
         "desc": "网易云游戏",
-        "url": "https://n.cg.163.com/api/v1/phone-captchas/86-[phone]",
+        "url": "https://cg.163.com/api/v1/phone-captchas/86-[phone]",
         "method": "POST",
         "header": "",
         "data": {
